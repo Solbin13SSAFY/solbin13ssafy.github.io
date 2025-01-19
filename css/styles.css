@@ -9899,7 +9899,7 @@ h3 {
 }
 .divider-custom .divider-custom-line {
   width: 100%;
-  max-width: 7rem;
+  max-width: 15rem;
   height: 0.25rem;
   background-color: #00cfd5;
   border-radius: 1rem;
@@ -10038,7 +10038,6 @@ h3 {
   }
 }
 .portfolio .portfolio-item {
-  cursor: pointer;
   position: relative;
   display: block;
   max-width: 25rem;
